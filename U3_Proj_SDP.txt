@@ -1,0 +1,11 @@
+Define the base case and recursive case of this project.
+What arguments should your drawing function accept to successfully complete the Tier 1 requirements? Which help you work towards the base case?
+List at least 3 small, achievable goals that you can complete between starting the project and completing the requirements listed in Tier 1
+
+
+1. The base case is going to be whenever the amount of branches placed reaches a global variable for tree size
+The recursive case will be whenever the size is not met
+
+2. It should receive the size of the branch and I am not sure what else it should accept.
+
+3. My first goal would be to get the turtle to draw the branches in one direction, then my second goal would be to make them change angle each them, and then my third would be to get the turtle to go backwards.
